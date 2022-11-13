@@ -1,3 +1,6 @@
+
+![imc-calculator](https://user-images.githubusercontent.com/83146122/201546267-3ffc9124-adb0-4058-a039-cdb3a8b97acf.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
